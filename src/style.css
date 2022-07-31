@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 600px;
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid blue;
+    height: 50px;
+
+
+}
